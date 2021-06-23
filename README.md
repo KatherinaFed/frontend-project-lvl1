@@ -2,4 +2,4 @@
 
 [![Github actions](https://github.com/KatherinaFed/frontend-project-lvl1/actions/workflows/github-actions.yml/badge.svg)](https://github.com/KatherinaFed/frontend-project-lvl1/actions/workflows/github-actions.yml)
 
-[![asciicast](https://asciinema.org/a/421965.svg)](https://asciinema.org/a/421965)
+<a href="https://asciinema.org/a/421965" target="_blank"><img src="https://asciinema.org/a/421965.svg" /></a>
